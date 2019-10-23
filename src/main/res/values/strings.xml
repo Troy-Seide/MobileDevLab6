@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OtherLab6</string>
+    <string-array name="engcolorarray">
+        <item>White</item>
+        <item>Magenta</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Maroon</item>
+        <item>Aqua</item>
+    </string-array>
+
+    <string-array name="spancolorarray">
+        <item>Blanco</item>
+        <item>Magenta</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Negro</item>
+        <item>Gris</item>
+        <item>Granate</item>
+        <item>Agua</item>
+    </string-array>
+</resources>

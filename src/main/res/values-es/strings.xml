@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OtherLab6</string>
+    <string-array name="engcolorarray">
+        <item>white</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>black</item>
+        <item>gray</item>
+        <item>cyan</item>
+        <item>magenta</item>
+        <item>yellow</item>
+        <item>olive</item>
+    </string-array>
+
+    <!-- This is the array of the color names that will be displayed -->
+    <string-array name="spancolorarray">
+        <item>blanco</item>
+        <item>rojo</item>
+        <item>azul</item>
+        <item>verde</item>
+        <item>negro</item>
+        <item>gris</item>
+        <item>cian</item>
+        <item>magenta</item>
+        <item>amarillo</item>
+        <item>aceituna</item>
+    </string-array>
+</resources>
